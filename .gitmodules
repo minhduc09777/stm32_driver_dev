@@ -1,0 +1,4 @@
+
+[submodule "cmsis/iodefine/svd_generate_project"]
+	path = cmsis/iodefine/svd_generate_project
+	url = https://github.com/minhduc09777/svd_generate_project.git
